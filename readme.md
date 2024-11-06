@@ -2,6 +2,10 @@
 
 API para o gerenciamento de clientes, consultas e dentistas em uma clínica odontológica.
 
+## Ideia do projeto
+
+https://youtu.be/Mb0-GuFmNH0
+
 ## Introdução
 
 A Odontogenda API é um sistema de gerenciamento para uma clínica odontológica, permitindo criar, atualizar, listar e remover informações sobre clientes, consultas e dentistas.
@@ -182,5 +186,8 @@ A Odontogenda API é um sistema de gerenciamento para uma clínica odontológica
 
   ![Diagrama de Relacionamento](diagrama-relacionamento.png)
 
+-**Integrantes**
+    - Erick Lopes Silva - RM553927
+    - Gabriel Sá Bragança - RM554064
 
 
