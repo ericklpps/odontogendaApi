@@ -178,6 +178,8 @@ A Odontogenda API é um sistema de gerenciamento para uma clínica odontológica
     - **Parâmetros**: `id` (string, obrigatório)
     - **Resposta**: `204 No Content`
 
+- **Diagrama de Relacionamento**
+  (diagrama-relacionamento.png)
 
 
 
