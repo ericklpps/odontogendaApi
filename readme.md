@@ -186,8 +186,10 @@ A Odontogenda API é um sistema de gerenciamento para uma clínica odontológica
 
   ![Diagrama de Relacionamento](diagrama-relacionamento.png)
 
--**Integrantes**
+- **Integrantes**
+- 
     - Erick Lopes Silva - RM553927
+    - 
     - Gabriel Sá Bragança - RM554064
 
 
